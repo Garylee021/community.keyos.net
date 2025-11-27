@@ -14,14 +14,14 @@ else
    Log.warning("Either `path' or `text' must be specified.")
 end
 
-function generate_table(vyos_version, version_table)
+function generate_table(keyos_version, version_table)
    local target_elem = HTML.select_one(page, selector)
    
-   local codename_header = HTML.create_element("h3", vyos_version)
-   HTML.set_attribute(codename_header, "id", vyos_version)
+   local codename_header = HTML.create_element("h3", keyos_version)
+   HTML.set_attribute(codename_header, "id", keyos_version)
    HTML.add_class(codename_header, "version")
    local codename_anchor = HTML.create_element("a")
-   HTML.set_attribute(codename_anchor, "href", "#" .. vyos_version)
+   HTML.set_attribute(codename_anchor, "href", "#" .. keyos_version)
    HTML.append_child(codename_anchor, codename_header)
    HTML.append_child(target_elem, codename_anchor)
 

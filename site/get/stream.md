@@ -10,7 +10,7 @@
 
   <div class='banner-div'>
 
-  # VyOS Stream
+  # KeyOS Stream
 
   </div>
 
@@ -21,10 +21,10 @@
     <div class='content-div'>
       <div class='image-signatures'>
 
-  VyOS Stream serves as a technology preview and a quality gate for the upcoming LTS release.
+  KeyOS Stream serves as a technology preview and a quality gate for the upcoming LTS release.
   New images are releases roughly every quarter.
 
-  Features can only be removed from VyOS Stream through a deprecation procedure,
+  Features can only be removed from KeyOS Stream through a deprecation procedure,
   and we promise to only make forward-compatible changes to the configuration syntax
   and API, so that users, integrators, and developers of external tools
   can prepare their environments and projects for the future LTS release
@@ -49,21 +49,21 @@
 
   ## Releases
 
-  <h3 id="2025.11">VyOS Stream 2025.11</h3>
+  <h3 id="2025.11">KeyOS Stream 2025.11</h3>
 
-  * Image: [vyos-2025.11-generic-amd64.iso](https://community-downloads.vyos.dev/stream/2025.11/vyos-2025.11-generic-amd64.iso) ([sig](https://community-downloads.vyos.dev/stream/2025.11/vyos-2025.11-generic-amd64.iso.minisig))
-  * Source code tarball: [circinus-2025.11.tar.gz](https://community-downloads.vyos.dev/stream/2025.11/circinus-2025.11.tar.gz) ([sig](https://community-downloads.vyos.dev/stream/2025.11/circinus-2025.11.tar.gz.minisig))
+  * Image: [keyos-2025.11-generic-amd64.iso](https://community-downloads.keyos.dev/stream/2025.11/keyos-2025.11-generic-amd64.iso) ([sig](https://community-downloads.keyos.dev/stream/2025.11/keyos-2025.11-generic-amd64.iso.minisig))
+  * Source code tarball: [circinus-2025.11.tar.gz](https://community-downloads.keyos.dev/stream/2025.11/circinus-2025.11.tar.gz) ([sig](https://community-downloads.keyos.dev/stream/2025.11/circinus-2025.11.tar.gz.minisig))
 
-  <h3 id="1.5-2025-Q2">VyOS Stream 1.5-2025-Q2</h3>
+  <h3 id="1.5-2025-Q2">KeyOS Stream 1.5-2025-Q2</h3>
 
-  * Image: [vyos-1.5-stream-2025-Q2-generic-amd64.iso](https://community-downloads.vyos.dev/stream/1.5-stream-2025-Q2/vyos-1.5-stream-2025-Q2-generic-amd64.iso) ([sig](https://community-downloads.vyos.dev/stream/1.5-stream-2025-Q2/vyos-1.5-stream-2025-Q2-generic-amd64.iso.minisig))
-  * Source code tarball: [circinus-1.5-stream-2025-Q2.tar.gz](https://community-downloads.vyos.dev/stream/1.5-stream-2025-Q2/circinus-1.5-stream-2025-Q2.tar.gz) ([sig](https://community-downloads.vyos.dev/stream/1.5-stream-2025-Q2/circinus-1.5-stream-2025-Q2.tar.gz.minisig))
+  * Image: [keyos-1.5-stream-2025-Q2-generic-amd64.iso](https://community-downloads.keyos.dev/stream/1.5-stream-2025-Q2/keyos-1.5-stream-2025-Q2-generic-amd64.iso) ([sig](https://community-downloads.keyos.dev/stream/1.5-stream-2025-Q2/keyos-1.5-stream-2025-Q2-generic-amd64.iso.minisig))
+  * Source code tarball: [circinus-1.5-stream-2025-Q2.tar.gz](https://community-downloads.keyos.dev/stream/1.5-stream-2025-Q2/circinus-1.5-stream-2025-Q2.tar.gz) ([sig](https://community-downloads.keyos.dev/stream/1.5-stream-2025-Q2/circinus-1.5-stream-2025-Q2.tar.gz.minisig))
 
 
-  <h3 id="1.5-2025-Q1">VyOS Stream 1.5-2025-Q1</h3>
+  <h3 id="1.5-2025-Q1">KeyOS Stream 1.5-2025-Q1</h3>
 
-  * Image: [vyos-1.5-stream-2025-Q1-generic-amd64.iso](https://community-downloads.vyos.dev/stream/1.5-stream-2025-Q1/vyos-1.5-stream-2025-Q1-generic-amd64.iso) ([sig](https://community-downloads.vyos.dev/stream/1.5-stream-2025-Q1/vyos-1.5-stream-2025-Q1-generic-amd64.iso.minisig))
-  * Source code tarball: [circinus-1.5-stream-2025-Q1.tar.gz](https://community-downloads.vyos.dev/stream/1.5-stream-2025-Q1/circinus-1.5-stream-2025-Q1.tar.gz) ([sig](https://community-downloads.vyos.dev/stream/1.5-stream-2025-Q1/circinus-1.5-stream-2025-Q1.tar.gz.minisig))
+  * Image: [keyos-1.5-stream-2025-Q1-generic-amd64.iso](https://community-downloads.keyos.dev/stream/1.5-stream-2025-Q1/keyos-1.5-stream-2025-Q1-generic-amd64.iso) ([sig](https://community-downloads.keyos.dev/stream/1.5-stream-2025-Q1/keyos-1.5-stream-2025-Q1-generic-amd64.iso.minisig))
+  * Source code tarball: [circinus-1.5-stream-2025-Q1.tar.gz](https://community-downloads.keyos.dev/stream/1.5-stream-2025-Q1/circinus-1.5-stream-2025-Q1.tar.gz) ([sig](https://community-downloads.keyos.dev/stream/1.5-stream-2025-Q1/circinus-1.5-stream-2025-Q1.tar.gz.minisig))
 
   </div>
 

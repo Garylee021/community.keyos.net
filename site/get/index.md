@@ -10,9 +10,9 @@
 
   <div class='banner-div'>
 
-  # Get VyOS
+  # Get KeyOS
 
-  VyOS has three release "channels": rolling release, VyOS Stream, and LTS releases.
+  KeyOS has three release "channels": rolling release, KeyOS Stream, and LTS releases.
 
   </div>
 
@@ -31,7 +31,7 @@
 
   Rolling release builds are for you if you...
 
-  - want to help us test latest VyOS code
+  - want to help us test latest KeyOS code
   - want to check whether a bug is fixed in the latest code
   - made a patch and want to test it before making a pull request
 
@@ -41,18 +41,18 @@
 
   <div class="lts">
 
-  ## VyOS Stream
+  ## KeyOS Stream
 
-  VyOS Stream serves as a technology preview and a quality gate for the upcoming LTS release.
+  KeyOS Stream serves as a technology preview and a quality gate for the upcoming LTS release.
   New images are releases roughly every quarter.
 
-  Features can only be removed from VyOS Stream through a deprecation procedure,
+  Features can only be removed from KeyOS Stream through a deprecation procedure,
   and we promise to only make forward-compatible changes to the configuration syntax
   and API, so that users, integrators, and developers of external tools
   can prepare their environments and projects for the future LTS release
   and help us identify and fix issues.
 
-  Go to the [VyOS Stream page](/get/stream) to download.
+  Go to the [KeyOS Stream page](/get/stream) to download.
 
   </div>
 
@@ -65,12 +65,12 @@
 
   There are many ways to get access:
 
-  - Purchase a [subscription](https://vyos.io/subscriptions/software/).
+  - Purchase a [subscription](https://keyos.io/subscriptions/software/).
   - Apply for a free subscription as a [contributor](/get/contributor-subscriptions).
   - Apply for a free subscription as an
-    [educational instutution](https://vyos.io/community/for-educational-institutions/),
-    [non-profit](https://vyos.io/community/for-non-commercial-organizations/), or an
-    [emergency service](http://vyos.io/community/for-first-responders/).
+    [educational instutution](https://keyos.io/community/for-educational-institutions/),
+    [non-profit](https://keyos.io/community/for-non-commercial-organizations/), or an
+    [emergency service](http://keyos.io/community/for-first-responders/).
 
   </div>
 

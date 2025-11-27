@@ -10,7 +10,7 @@
 
   <div class='banner-div'>
 
-  # VyOS rolling release
+  # KeyOS rolling release
 
   </div>
 
@@ -21,12 +21,12 @@
     <div class='content-div'>
       <div class='image-signatures'>
 
-  VyOS rolling release builds are automatically produced from the `current` branch at least once a day.
+  KeyOS rolling release builds are automatically produced from the `current` branch at least once a day.
   They include all the latest code from maintainers and community contributors.
 
   Rolling release builds are not hand-tested before upload.
-  They undergo a sequence of automated [smoke tests](https://github.com/vyos/vyos-1x/tree/current/smoketest/scripts/cli).
-  In addition we load arbitrary [configurations](https://github.com/vyos/vyos-1x/tree/current/smoketest/configs) to ensure
+  They undergo a sequence of automated [smoke tests](https://github.com/keyos/keyos-1x/tree/current/smoketest/scripts/cli).
+  In addition we load arbitrary [configurations](https://github.com/keyos/keyos-1x/tree/current/smoketest/configs) to ensure
   there are no errors during config migration and system bootup.
 
   ## Verifying image signatures
@@ -41,11 +41,11 @@
   minisign -Vm <ISO file> -P RWSIhkR/dkM2DSaBRniv/bbbAf8hmDqdbOEmgXkf1RxRoxzodgKcDyGq
   ```
 
-  If in doubt, you can get the public key from the [nightly builds repository](https://github.com/vyos/vyos-nightly-build/blob/main/minisign.pub).
+  If in doubt, you can get the public key from the [nightly builds repository](https://github.com/keyos/keyos-nightly-build/blob/main/minisign.pub).
   If you are _really_ in doubt (i.e., you have a reason to suspect that the repository and/or this website were compromised),
   you should report that to the maintainers.
 
-  Currently, we create rolling release builds with GitHub Actions and store them in releases of the [vyos/vyos-nightly-build](https://github.com/vyos/vyos-nightly-build/releases)
+  Currently, we create rolling release builds with GitHub Actions and store them in releases of the [keyos/keyos-nightly-build](https://github.com/keyos/keyos-nightly-build/releases)
   repository. Here is an auto-generated list of available builds.
 
   </div>

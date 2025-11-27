@@ -1,8 +1,8 @@
-[![vyos.net build](https://github.com/vyos/community.vyos.net/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/vyos/community.vyos.net/actions/workflows/main.yml)
+[![keyos.net build](https://github.com/keyos/community.keyos.net/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/keyos/community.keyos.net/actions/workflows/main.yml)
 
-# community.vyos.net
+# community.keyos.net
 
-The VyOS community website.
+The KeyOS community website.
 
 ## Repository structure
 
@@ -22,10 +22,10 @@ soupault.toml		Configuration file for the soupault static site generator.
 This repository has two branches: `main` and `production`.
 
 The `main` branch serves as a staging environment where all new changes to first.
-It's automatically deployed to the staging.vyos.net domain so that the changes
+It's automatically deployed to the staging.keyos.net domain so that the changes
 can be viewed live.
 
-The `production` branch is deployed to the real [vyos.net](https://vyos.net) website.
+The `production` branch is deployed to the real [keyos.net](https://keyos.net) website.
 
 ## Contributing
 

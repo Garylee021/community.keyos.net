@@ -66,7 +66,7 @@ jobs:
           --aws-sigv4 "aws:amz:${{ env.AWS_AMPLIFY_REGION }}:amplify"
 
     - name: Check Amplify build status
-      uses: vyos/amplify-build-status@v2.2
+      uses: keyos/amplify-build-status@v2.2
       with:
         app-id: ${{ env.AWS_AMPLIFY_APP_ID }}
         branch-name: ${{ env.BRANCH }}
