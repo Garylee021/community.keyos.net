@@ -65,7 +65,7 @@
 
   ### Contributing to the documentation
 
-  * Fork the [keyos-documentation](https://github.com/keyos/keyos-documentation/) repo.
+  * Fork the [keyos-documentation](https://github.com/Garylee021/keyos-documentation/) repo.
   * Read the [guidelines](https://docs.keyos.io/en/latest/documentation.html).
 
   ### Testing latest builds

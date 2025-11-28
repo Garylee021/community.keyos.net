@@ -1,4 +1,4 @@
-[![keyos.net build](https://github.com/keyos/community.keyos.net/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/keyos/community.keyos.net/actions/workflows/main.yml)
+[![keyos.net build](https://github.com/Garylee021/community.keyos.net/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Garylee021/community.keyos.net/actions/workflows/main.yml)
 
 # community.keyos.net
 
