@@ -10,7 +10,7 @@
 
   <div class='banner-div'>
 
-  # VyOS release status
+  # KeyOS release status
 
   Here you can find information about latest releases and any known or fixed security problems.
 

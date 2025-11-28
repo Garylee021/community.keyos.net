@@ -14,5 +14,5 @@
 
   security_advisory = []
 
-  notes = "Unsupported — VyOS 1.3 has reached end of life in April 2025."
+  notes = "Unsupported — KeyOS 1.3 has reached end of life in April 2025."
 

@@ -10,7 +10,7 @@
 
   <div class='banner-div'>
 
-  # About VyOS
+  # About KeyOS
 
   </div>
 

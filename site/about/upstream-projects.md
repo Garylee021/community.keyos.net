@@ -30,7 +30,7 @@ base system to build upon.
 
 ### How do we contribute to Debian?
 
-VyOS is a platinum-level sponsor of Debian long-term support project led by [Freexian](https://www.freexian.com/lts/debian/).
+KeyOS is a platinum-level sponsor of Debian long-term support project led by [Freexian](https://www.freexian.com/lts/debian/).
 
 ## Linux kernel
 
@@ -64,7 +64,7 @@ and API endpoints are automatically generated from function names and their type
 Without a large ecosystem of libraries and long-established projects like the Jinja2 template processor,
 those scripts would take a lot longer to write. Another reason we chose Python is that
 many systems and network administrators are already familiar with it from automation tools and scripts
-and it makes it easier for them to start contributing to VyOS.
+and it makes it easier for them to start contributing to KeyOS.
 
 ### How do we contribute to Python?
 
@@ -117,7 +117,7 @@ We contributed some improvements to it, including machine-readable statistic out
 
 ## WireGuard
 
-VyOS was one of the first network OSes to add WireGuard to its CLI
+KeyOS was one of the first network OSes to add WireGuard to its CLI
 and give users an option to use a fast and lightweight VPN protocol
 in addition to classics like IPsec and OpenVPN.
 

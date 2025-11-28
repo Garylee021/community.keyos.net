@@ -40,7 +40,7 @@
 
   - **Evangelists**
 
-    A provable<fn id="evangelists">Many people tell us that they promote VyOS among friends and collegues. It may be true, but the problem is that anyone can say that. If you want to get a subscription as an evangelist, please supply links to posts or recorded talks.</fn> track record of posting about VyOS (whether on your own site or on social media) or speaking about it at live events (offline or online). Answering on the forums also counts.
+    A provable<fn id="evangelists">Many people tell us that they promote KeyOS among friends and collegues. It may be true, but the problem is that anyone can say that. If you want to get a subscription as an evangelist, please supply links to posts or recorded talks.</fn> track record of posting about KeyOS (whether on your own site or on social media) or speaking about it at live events (offline or online). Answering on the forums also counts.
 
   </div>
   </div>
